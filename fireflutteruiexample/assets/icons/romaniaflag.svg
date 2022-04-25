@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="12px" viewBox="0 0 16 12" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="12" style="fill:rgb(0%,0%,0%);fill-opacity:0.8;stroke:none;"/>
+  </g>
+</mask>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="25.391" cy="42.806" fx="25.391" fy="42.806" r="22.753" gradientTransform="matrix(0.361163,0,0,0.0149324,-1.170317,9.054788)">
+<stop offset="0" style="stop-color:rgb(18.039216%,20.392157%,21.176471%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(18.039216%,20.392157%,21.176471%);stop-opacity:0;"/>
+</radialGradient>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="16" height="12"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial0);" d="M 16.21875 9.695312 C 16.21875 9.882812 12.539062 10.035156 8 10.035156 C 3.460938 10.035156 -0.21875 9.882812 -0.21875 9.695312 C -0.21875 9.507812 3.460938 9.355469 8 9.355469 C 12.539062 9.355469 16.21875 9.507812 16.21875 9.695312 Z M 16.21875 9.695312 "/>
+</g>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="12" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="16" height="12"/>
+</clipPath>
+<g id="surface8" clip-path="url(#clip2)">
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 2.027344 9.53125 L 2.027344 38.46875 L 45.972656 38.46875 L 45.972656 9.53125 Z M 2.027344 9.53125 " transform="matrix(0.333333,0,0,0.25,0,0)"/>
+</g>
+<mask id="mask2">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="12" style="fill:rgb(0%,0%,0%);fill-opacity:0.8;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="0" y1="10.03" x2="0" y2="37.969" >
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:0.8;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip3">
+  <rect x="0" y="0" width="16" height="12"/>
+</clipPath>
+<g id="surface11" clip-path="url(#clip3)">
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:url(#linear0);stroke-miterlimit:4;" d="M 3.035156 10.53125 L 3.035156 37.46875 L 44.964844 37.46875 L 44.964844 10.53125 Z M 3.035156 10.53125 " transform="matrix(0.333333,0,0,0.25,0,0)"/>
+</g>
+<mask id="mask3">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="12" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="2.531" y1="-16.178" x2="15.851" y2="27.16" gradientTransform="matrix(0.333333,0,0,0.25,0,0)">
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip4">
+  <rect x="0" y="0" width="16" height="12"/>
+</clipPath>
+<g id="surface14" clip-path="url(#clip4)">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 0.84375 2.507812 L 0.84375 6.171875 C 4.824219 5.261719 9.605469 4.601562 15.15625 4.078125 L 15.15625 2.507812 Z M 0.84375 2.507812 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.941176%,83.137255%,0%);fill-opacity:1;" d="M 0.5 2.25 L 15.5 2.25 L 15.5 9.75 L 0.5 9.75 Z M 0.5 2.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(80%,0%,0%);fill-opacity:1;" d="M 10.5 2.25 L 15.5 2.25 L 15.5 9.75 L 10.5 9.75 Z M 10.5 2.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,39.607843%,64.313725%);fill-opacity:1;" d="M 0.5 2.25 L 5.5 2.25 L 5.5 9.75 L 0.5 9.75 Z M 0.5 2.25 "/>
+<use xlink:href="#surface8" mask="url(#mask1)"/>
+<use xlink:href="#surface11" mask="url(#mask2)"/>
+<use xlink:href="#surface14" mask="url(#mask3)"/>
+</g>
+</svg>

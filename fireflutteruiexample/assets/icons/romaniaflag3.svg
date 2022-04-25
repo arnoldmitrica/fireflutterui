@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="1024" height="768">
+
+<g transform="matrix(16 0 0 16 128 -0)">
+	<g>
+        <path transform="matrix(1.0834897 0 0 0.5317875 -3.5109499 16.012074)"  d="M48.144085 42.806374C 48.144085 43.7194 43.80738 44.56307 36.76757 45.01958C 29.727758 45.476097 21.054354 45.476097 14.014542 45.01958C 6.9747295 44.56307 2.638031 43.7194 2.638031 42.806374C 2.638031 41.89335 6.9747334 41.04968 14.014545 40.593166C 21.054358 40.13665 29.727762 40.13665 36.767574 40.593166C 43.80739 41.04968 48.144085 41.89335 48.144085 42.806374z" stroke="none" fill="none" />
+        <path d="M1.5 9L46.5 9L46.5 39L1.5 39z" stroke="none" fill="#EDD400" fill-rule="nonzero" />
+        <path d="M31.5 9L46.5 9L46.5 39L31.5 39z" stroke="none" fill="#CC0000" fill-rule="nonzero" />
+        <path d="M1.5 9L16.5 9L16.5 39L1.5 39z" stroke="none" fill="#3465A4" fill-rule="nonzero" />
+        <path d="M2.03125 9.53125L2.03125 38.46875L45.96875 38.46875L45.96875 9.53125L2.03125 9.53125z" stroke="#000000" stroke-width="1" fill="none" />
+        <path d="M3.03125 10.53125L3.03125 37.46875L44.96875 37.46875L44.96875 10.53125L3.03125 10.53125z" stroke="#000000" stroke-width="1" fill="none" stroke-opacity="0" />
+        <path d="M2.53125 10.03125L2.53125 24.6875C 14.474663 21.048807 28.812965 18.399916 45.46875 16.3125L45.46875 16.3125L45.46875 10.03125L2.53125 10.03125z" stroke="none" fill="none" />
+	</g>
+</g>
+</svg>
